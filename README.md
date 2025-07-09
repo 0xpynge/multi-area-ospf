@@ -50,5 +50,4 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
 ## 📌 Author
 Rani Kamaleddine
 LinkedIn:https://www.linkedin.com/in/rani-kamaleddine/
-
 GitHub: https://github.com/r4n1-exe
