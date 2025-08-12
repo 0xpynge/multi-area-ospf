@@ -42,7 +42,7 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
 ## 💡 Notes
 
 - OSPF configuration includes backbone and non-backbone areas for modular routing
-- No OSPF is configured on the customer routers — only static routing
+- No OSPF is configured on the customer routers - only static routing
 - All inter-area communication is handled via ABRs connected to Area 0
 
 
