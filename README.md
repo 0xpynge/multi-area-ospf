@@ -34,9 +34,7 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
 
 ## 📁 Files Included
 
-- ospf-multi-area-lab.pkt – Main Packet Tracer file
-- README.md – Documentation and overview
-- topology.png – Topology diagram image
+
 
 
 ## 💡 Notes
