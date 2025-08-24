@@ -4,19 +4,6 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
 
 ## 🌐 Topology Overview
 
-- Core Backbone (Area 0): A triangle mesh of 3 routers acting as the OSPF backbone.
-- OSPF Areas:
-  - Area 10 – Subnet: 192.168.10.0/24
-  - Area 20 – Subnet: 192.168.20.0/24
-  - Area 30 – Subnet: 192.168.30.0/24
-- Customer Networks:
-  - Customer 1 (Blue) – Subnet: 50.50.50.0/24 (uses static routing)
-  - Customer 2 (Brown) – Subnet: 100.100.100.0/24 (uses static routing)
-- Routing Behavior:
-  - Customer routers use static routes only
-  - The core routers connected to the customers redistribute static routes into OSPF using:
-    router ospf 1  
-    redistribute static subnets
 
 
 ## 🧩 Key Features
