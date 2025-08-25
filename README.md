@@ -19,7 +19,7 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
     redistribute static subnets
 
 
-## 🧩 Key Features
+## 🧩 
 
 - Multi-Area OSPF Design (Areas 0, 10, 20, 30)
 - Static Routing on Customer Routers
