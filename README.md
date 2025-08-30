@@ -8,7 +8,7 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
 - OSPF Areas:
   - Area 10 – Subnet: 192.168.10.0/24
   - Area 20 – Subnet: 192.168.20.0/24
-  - Area 30 – Subnet: 192.168.30.0/24
+  - Area 30 – Subnet: 192.168.30.0/2
 - Customer Networks:
   - Customer 1 (Blue) – Subnet: 50.50.50.0/24 (uses static routing)
   - Customer 2 (Brown) – Subnet: 100.100.100.0/24 (uses static routing)
