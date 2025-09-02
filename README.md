@@ -4,7 +4,7 @@ This Packet Tracer lab simulates an enterprise network using multi-area OSPF rou
 
 ## 🌐 Topology Overview
 
-- Core Backbone (Area 0): A triangle mesh of 3 routers acting as the OSPF backbone.
+- Core Backbone (Area 0): A triangle mesh of 3 outers acting as the OSPF backbone.
 - OSPF Areas:
   - Area 10 – Subnet: 192.168.10.0/24
   - Area 20 – Subnet: 192.168.20.0/24
